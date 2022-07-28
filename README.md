@@ -1,7 +1,7 @@
 ---
 title: Raku COVID greenpass decoder
 author: Teppo Saari
-date: today
+date: 2022-06-17
 ---
 
 # raku-greenpass-decoder
